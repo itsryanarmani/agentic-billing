@@ -11,6 +11,6 @@ Keywords: stripe, subscriptions, invoicing, agentic-suite, claude-code, codex, c
 
 ## Docs
 
-- README: https://github.com/pooriaarab/agentic-billing
-- Core contract: https://github.com/pooriaarab/agentic-billing/blob/main/docs/agentic-core.md
+- README: https://github.com/itsryanarmani/agentic-billing
+- Core contract: https://github.com/itsryanarmani/agentic-billing/blob/main/docs/agentic-core.md
 - License: MIT
