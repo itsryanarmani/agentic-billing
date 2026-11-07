@@ -4,7 +4,7 @@
   "description": "Bill subscriptions, invoices, and metered units over Stripe.",
   "version": "0.1.0",
   "repository": {
-    "url": "https://github.com/pooriaarab/agentic-billing.git",
+    "url": "https://github.com/itsryanarmani/agentic-billing.git",
     "source": "github"
   },
   "packages": [

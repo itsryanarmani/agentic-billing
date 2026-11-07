@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/agentic-billing)](https://www.npmjs.com/package/agentic-billing) [![Downloads/month](https://img.shields.io/npm/dm/agentic-billing)](https://www.npmjs.com/package/agentic-billing) [![MIT license](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/license/mit)
 
-[Package](https://www.npmjs.com/package/agentic-billing) · [Setup](#integration-guides) · [API](#runtime-surfaces) · [Support](https://github.com/pooriaarab/agentic-billing/issues)
+[Package](https://www.npmjs.com/package/agentic-billing) · [Setup](#integration-guides) · [API](#runtime-surfaces) · [Support](https://github.com/itsryanarmani/agentic-billing/issues)
 
 agentic-billing is an open-source Stripe billing toolkit for developers and agents. It previews subscriptions, checkout sessions, invoices, usage events, and customer portal links. A JavaScript SDK, command-line interface (CLI), and Model Context Protocol (MCP) server expose the billing operations.
 
@@ -207,7 +207,7 @@ MCP planning returns operations only; callers must apply ledger writes explicitl
 ## Status
 
 Version 0.1.0 is an early release. Interfaces and ledger behavior can change before 1.0.
-[Report bugs or request support](https://github.com/pooriaarab/agentic-billing/issues).
+[Report bugs or request support](https://github.com/itsryanarmani/agentic-billing/issues).
 Public case studies are not yet published in this repository.
 Contributors can run `npm run build`, `npm run typecheck`, and `npm test`.
 
